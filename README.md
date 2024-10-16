@@ -1,7 +1,8 @@
 # Python-RepeatedMeasuresDataSimulation
 An example of how to use Python to simulate repeated measurements data.
 
-![image](https://github.com/user-attachments/assets/3f265ce5-4406-4d26-b6eb-ebaf592ab76c)
+![repeatedMeasures](https://github.com/user-attachments/assets/6f912af7-b2b3-45c9-aa09-3eef5cf97b0d)
+
 
 This is a Python version of my R project found in:
 
